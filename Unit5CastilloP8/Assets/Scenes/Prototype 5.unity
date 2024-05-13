@@ -738,7 +738,7 @@ MonoBehaviour:
   - {fileID: 848963949174029176, guid: e12b047b3ceda3b41941de2590c44579, type: 3}
   scoreText: {fileID: 180484629}
   gameOverText: {fileID: 792324728}
-  isGameActive: 0
+  isGameActive: 1
   restartButton: {fileID: 1075361858}
   titleScreen: {fileID: 506303506}
   livesText: {fileID: 1357918615}
